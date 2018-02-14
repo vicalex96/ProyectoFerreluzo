@@ -1,0 +1,38 @@
+<listado>
+  <cliente>
+    <nombre>Maria p</nombre>
+    <cedula>E-123456</cedula>
+    <direccion>El rosal</direccion>
+    <telefono>1322134</telefono>
+  </cliente>
+  <cliente>
+    <nombre>Oscar</nombre>
+    <cedula>E-5068321</cedula>
+    <direccion>Margarita</direccion>
+    <telefono>6583256</telefono>
+  </cliente>
+  <cliente>
+    <nombre>Oracio</nombre>
+    <cedula>E-8564655</cedula>
+    <direccion>Los Samanes</direccion>
+    <telefono>5655554</telefono>
+  </cliente>
+  <cliente>
+    <nombre>Cristian</nombre>
+    <cedula>V-12356</cedula>
+    <direccion>La trinidad</direccion>
+    <telefono>123412367</telefono>
+  </cliente>
+  <cliente>
+    <nombre>Alvin</nombre>
+    <cedula>V-24654754</cedula>
+    <direccion>San Martin</direccion>
+    <telefono>435357357</telefono>
+  </cliente>
+  <cliente>
+    <nombre>Esperanza</nombre>
+    <cedula>V-554545</cedula>
+    <direccion>La quebradita</direccion>
+    <telefono>43434</telefono>
+  </cliente>
+</listado>

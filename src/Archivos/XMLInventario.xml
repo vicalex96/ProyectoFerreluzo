@@ -1,0 +1,110 @@
+<Inventario>
+  <articulo>
+    <nombre>Martillo</nombre>
+    <familia>herramienta</familia>
+    <ID>0</ID>
+    <codigoBarras>3434534543</codigoBarras>
+    <unidades>27</unidades>
+    <descripcion>Martillo de 2,5 kg</descripcion>
+    <costo>17.000,54</costo>
+    <impuesto>22,00</impuesto>
+    <precio>170.654,78</precio>
+    <vendido>26518</vendido>
+  </articulo>
+  <articulo>
+    <nombre>Tornillo</nombre>
+    <familia>Fermetal</familia>
+    <ID>1</ID>
+    <codigoBarras>432432443</codigoBarras>
+    <unidades>30</unidades>
+    <descripcion>Bolsa de 30 Tornillos para concreto</descripcion>
+    <costo>15.300,00</costo>
+    <impuesto>10,00</impuesto>
+    <precio>42.637,43</precio>
+    <vendido>5861</vendido>
+  </articulo>
+  <articulo>
+    <nombre>Taladro</nombre>
+    <familia>Ikowa</familia>
+    <ID>2</ID>
+    <codigoBarras>243434</codigoBarras>
+    <unidades>30</unidades>
+    <descripcion>Taladro de 500 RPM</descripcion>
+    <costo>12.400.000,00</costo>
+    <impuesto>12,00</impuesto>
+    <precio>30.870.200,00</precio>
+    <vendido>7</vendido>
+  </articulo>
+  <articulo>
+    <nombre>Llave</nombre>
+    <familia>Fundacion Pacifico</familia>
+    <ID>3</ID>
+    <codigoBarras>232324</codigoBarras>
+    <unidades>28</unidades>
+    <descripcion>Llave de paso de 1/2" Fundacion Pacifico</descripcion>
+    <costo>834.600,00</costo>
+    <impuesto>12,00</impuesto>
+    <precio>1.200.000,00</precio>
+    <vendido>2841</vendido>
+  </articulo>
+  <articulo>
+    <nombre>Tubo de Cobre</nombre>
+    <familia>Fermetal</familia>
+    <ID>4</ID>
+    <codigoBarras>23224</codigoBarras>
+    <unidades>30</unidades>
+    <descripcion>Tubo de Cobre de 1m de largo y 1/2" de ancho</descripcion>
+    <costo>570.000,00</costo>
+    <impuesto>10,00</impuesto>
+    <precio>805.200,00</precio>
+    <vendido>92</vendido>
+  </articulo>
+  <articulo>
+    <nombre>Tachuelas para madera</nombre>
+    <familia>Ikea</familia>
+    <ID>5</ID>
+    <codigoBarras>24343245</codigoBarras>
+    <unidades>30</unidades>
+    <descripcion>Paquete de 15 tachacuelas de madera de 3cm de largo</descripcion>
+    <costo>146.203,39</costo>
+    <impuesto>12,00</impuesto>
+    <precio>357.800,78</precio>
+    <vendido>10</vendido>
+  </articulo>
+  <articulo>
+    <nombre>Clavos</nombre>
+    <familia>Ikea</familia>
+    <ID>6</ID>
+    <codigoBarras>32423432</codigoBarras>
+    <unidades>30</unidades>
+    <descripcion>Bolsa de 10 clavos de 2,4 cm</descripcion>
+    <costo>1.222,68</costo>
+    <impuesto>12,00</impuesto>
+    <precio>15.546,67</precio>
+    <vendido>13</vendido>
+  </articulo>
+  <articulo>
+    <nombre>Cerradura de embutir</nombre>
+    <familia>Cisa</familia>
+    <ID>7</ID>
+    <codigoBarras>2434343</codigoBarras>
+    <unidades>30</unidades>
+    <descripcion>Cerradura de embutir de 50</descripcion>
+    <costo>10.789.056,00</costo>
+    <impuesto>12,00</impuesto>
+    <precio>20.688.068,00</precio>
+    <vendido>16</vendido>
+  </articulo>
+  <articulo>
+    <nombre>Nuevo Articulo</nombre>
+    <familia />
+    <ID>8</ID>
+    <codigoBarras />
+    <unidades>0</unidades>
+    <descripcion />
+    <costo>0,00</costo>
+    <impuesto>0,00</impuesto>
+    <precio>0,00</precio>
+    <vendido>0</vendido>
+  </articulo>
+</Inventario>
